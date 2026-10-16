@@ -1,0 +1,9 @@
+{
+  "shop_name": "초간단 ☕카페 타이쿤",
+  "menus": [
+    { "id": "coffee", "name": "아메리카노", "price": 3000, "income": 500 },
+    { "id": "latte", "name": "카페라떼", "price": 4500, "income": 900 },
+    { "id": "cake", "name": "딸기 케이크", "price": 7000, "income": 2000 }
+  ]
+}
+
